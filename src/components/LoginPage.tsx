@@ -133,7 +133,7 @@ export function LoginPage({ onLogin }: LoginPageProps) {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-blue-50 to-blue-100 p-4">
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
-          <CardTitle className="text-2xl">Montessori School</CardTitle>
+          <CardTitle className="text-2xl">Kidz Montessori Academy</CardTitle>
           <CardDescription>
             Sign in to access your dashboard
           </CardDescription>
